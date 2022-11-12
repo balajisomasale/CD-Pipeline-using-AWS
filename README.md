@@ -11,3 +11,6 @@ You will develop a continuous delivery pipeline for a small web application in t
 Then you’ll learn how to set up a continuous delivery pipeline that will deploy your web application automatically anytime your source code is updated. This project uses `GitHub, AWS Elastic Beanstalk, AWS CodeBuild, and AWS CodePipeline.`
 
 
+For all the Hands-on : https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all
+
+
