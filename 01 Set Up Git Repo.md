@@ -5,6 +5,8 @@ In this example we will be using GitHub, but there are other Git-compatible opti
 In one of the following modules you will connect this hosted repo to our pipeline, 
 so every time you push a new commit to it your build process is started.
 
+![image](https://user-images.githubusercontent.com/35003840/201481683-6c46829c-b06a-44c9-b785-38856bf73ec1.png)
+
 
 Forked : https://github.com/aws-samples/aws-elastic-beanstalk-express-js-sample
 Clone it and push with some changes inside the `app.js` 
